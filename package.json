@@ -68,6 +68,7 @@
   },
   "workspaces": [
     "apps/*",
-    "ui-shared"
+    "ui-shared",
+    "second-shared"
   ]
 }

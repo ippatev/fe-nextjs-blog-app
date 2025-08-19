@@ -8,6 +8,9 @@
     },
     {
       "path": "./ui-shared"
+    },
+    {
+      "path": "./second-shared"
     }
   ]
 }
