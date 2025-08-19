@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/fe-nextjs-blog-app"
+    },
+    {
+      "path": "./ui-shared"
     }
   ]
 }
